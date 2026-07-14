@@ -6,7 +6,9 @@ A web application for trading card game collectors to [manage their collection a
 
 - [ ] Browse and search cards via the Pokémon TCG API / Scryfall
 - [ ] Track a personal card collection
-- [ ] [Add more as you build — keep this list honest to what's actually implemented, not aspirational]
+- [ ] 
+- [ ]
+- [ ]
 
 > Note: keep this section updated as you build. An honest, current feature list is more valuable to a reviewer than an ambitious one that doesn't match the code.
 
