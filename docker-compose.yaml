@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: tcg_user
+      POSTGRES_PASSWORD: tcg_pass
+      POSTGRES_DB: tcg_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
